@@ -1,0 +1,265 @@
+.page {
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.header {
+  margin-bottom: 24px;
+}
+
+.title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 4px;
+}
+
+.subtitle {
+  color: var(--color-text-secondary);
+  font-size: 0.9rem;
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 64px;
+  color: var(--color-text-secondary);
+}
+
+/* Layout */
+.calendarLayout {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 24px;
+  align-items: start;
+}
+
+.calendarSection {
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 20px;
+}
+
+/* Month navigation */
+.monthNav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.monthTitle {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.navBtn {
+  padding: 6px 14px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.navBtn:hover {
+  background: var(--color-bg-secondary);
+  border-color: var(--color-primary);
+}
+
+/* Day headers */
+.dayHeaders {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+  margin-bottom: 4px;
+}
+
+.dayHeader {
+  text-align: center;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-tertiary);
+  padding: 8px 0;
+}
+
+/* Grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+
+.emptyDay {
+  min-height: 80px;
+}
+
+.dayCell {
+  min-height: 80px;
+  padding: 6px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.dayCell:hover {
+  border-color: var(--color-primary);
+  background: var(--color-bg-secondary);
+}
+
+.dayCell.hasData {
+  background: var(--color-bg-secondary);
+}
+
+.dayCell.today {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 1px var(--color-primary);
+}
+
+.dayCell.selected {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.dayCell.selected .dayNumber {
+  color: #fff;
+}
+
+.dayCell.selected .dayCount,
+.dayCell.selected .dayRevenue {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.dayNumber {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+}
+
+.daySummary {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-top: auto;
+}
+
+.dayCount {
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: var(--color-primary);
+}
+
+.dayRevenue {
+  font-size: 0.65rem;
+  color: var(--color-success);
+  font-weight: 500;
+}
+
+/* Detail panel */
+.detailPanel {
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  position: sticky;
+  top: 16px;
+}
+
+.detailTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.detailEmpty {
+  color: var(--color-text-tertiary);
+  text-align: center;
+  padding: 32px 0;
+  font-size: 0.875rem;
+}
+
+.detailList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.detailItem {
+  padding: 12px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  transition: box-shadow var(--transition);
+}
+
+.detailItem:hover {
+  box-shadow: var(--shadow-sm);
+}
+
+.detailItemHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.detailClient {
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.detailAmount {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--color-success);
+}
+
+.detailExperience {
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+  display: block;
+  margin-bottom: 6px;
+}
+
+.detailMeta {
+  display: flex;
+  gap: 16px;
+  font-size: 0.75rem;
+  color: var(--color-text-tertiary);
+}
+
+@media (max-width: 639px) {
+  .calendarLayout {
+    grid-template-columns: 1fr;
+  }
+  .dayCell {
+    min-height: 60px;
+  }
+  .detailPanel {
+    position: static;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 1023px) {
+  .calendarLayout {
+    grid-template-columns: 1fr;
+  }
+  .detailPanel {
+    position: static;
+  }
+}

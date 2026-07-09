@@ -1,0 +1,191 @@
+{
+  "total_original_mb": 6.24,
+  "total_final_mb": 6.07,
+  "ahorro_total": "3%",
+  "archivos": [
+    {
+      "archivo": "banner_dunas_llamas_02.jpg",
+      "categoria": "banner",
+      "original_kb": 296.4,
+      "final_kb": 301.1,
+      "ahorro": "-2%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "banner_grupo_atardecer_01.jpg",
+      "categoria": "banner",
+      "original_kb": 359.3,
+      "final_kb": 374.4,
+      "ahorro": "-4%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "card_buggies_dunas_02.webp",
+      "categoria": "card",
+      "original_kb": 213.4,
+      "final_kb": 150.6,
+      "ahorro": "29%",
+      "formato": "WEBP"
+    },
+    {
+      "archivo": "card_buggies_fila_01.jpg",
+      "categoria": "card",
+      "original_kb": 448.1,
+      "final_kb": 478.5,
+      "ahorro": "-7%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "card_buggy_amarillo_adventure_07.jpg",
+      "categoria": "card",
+      "original_kb": 432.9,
+      "final_kb": 466.7,
+      "ahorro": "-8%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "card_buggy_verde_atardecer_06.jpg",
+      "categoria": "card",
+      "original_kb": 330.6,
+      "final_kb": 370.5,
+      "ahorro": "-12%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "card_canam_conductor_03.jpg",
+      "categoria": "card",
+      "original_kb": 286.4,
+      "final_kb": 311.5,
+      "ahorro": "-9%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "card_hombre_cargando_amigo_05.jpg",
+      "categoria": "card",
+      "original_kb": 299.4,
+      "final_kb": 323.8,
+      "ahorro": "-8%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "card_mujer_buggy_verde_04.jpg",
+      "categoria": "card",
+      "original_kb": 285.3,
+      "final_kb": 304.4,
+      "ahorro": "-7%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "carousel_buggy_verde_persona_alto_03.jpg",
+      "categoria": "carousel",
+      "original_kb": 319.8,
+      "final_kb": 333.0,
+      "ahorro": "-4%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "carousel_dunas_sombra_02.webp",
+      "categoria": "carousel",
+      "original_kb": 168.3,
+      "final_kb": 69.4,
+      "ahorro": "59%",
+      "formato": "WEBP"
+    },
+    {
+      "archivo": "carousel_hombre_alegre_04.webp",
+      "categoria": "carousel",
+      "original_kb": 94.6,
+      "final_kb": 61.7,
+      "ahorro": "35%",
+      "formato": "WEBP"
+    },
+    {
+      "archivo": "carousel_persona_sola_atardecer_01.webp",
+      "categoria": "carousel",
+      "original_kb": 224.4,
+      "final_kb": 105.9,
+      "ahorro": "53%",
+      "formato": "WEBP"
+    },
+    {
+      "archivo": "hero_bg_atardecer_buggies_02.jpg",
+      "categoria": "hero_bg",
+      "original_kb": 454.9,
+      "final_kb": 488.1,
+      "ahorro": "-7%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "hero_bg_buggy_oasis_03.jpg",
+      "categoria": "hero_bg",
+      "original_kb": 310.5,
+      "final_kb": 330.9,
+      "ahorro": "-7%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "hero_bg_oasis_persona_01.jpg",
+      "categoria": "hero_bg",
+      "original_kb": 276.5,
+      "final_kb": 299.0,
+      "ahorro": "-8%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "section_bg_dunas_nubes_01.jpg",
+      "categoria": "section_bg",
+      "original_kb": 610.6,
+      "final_kb": 653.3,
+      "ahorro": "-7%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "section_bg_oasis_atardecer_03.webp",
+      "categoria": "section_bg",
+      "original_kb": 228.2,
+      "final_kb": 156.5,
+      "ahorro": "31%",
+      "formato": "WEBP"
+    },
+    {
+      "archivo": "section_bg_oasis_noche_04.webp",
+      "categoria": "section_bg",
+      "original_kb": 242.7,
+      "final_kb": 143.3,
+      "ahorro": "41%",
+      "formato": "WEBP"
+    },
+    {
+      "archivo": "section_bg_padre_hija_oasis_02.jpg",
+      "categoria": "section_bg",
+      "original_kb": 393.1,
+      "final_kb": 426.3,
+      "ahorro": "-8%",
+      "formato": "JPG"
+    },
+    {
+      "archivo": "ui_ciclista_huacachina_03.webp",
+      "categoria": "ui",
+      "original_kb": 44.1,
+      "final_kb": 25.5,
+      "ahorro": "42%",
+      "formato": "WEBP"
+    },
+    {
+      "archivo": "ui_dunas_textura_02.webp",
+      "categoria": "ui",
+      "original_kb": 52.0,
+      "final_kb": 32.0,
+      "ahorro": "38%",
+      "formato": "WEBP"
+    },
+    {
+      "archivo": "ui_selfie_pareja_luna_01.webp",
+      "categoria": "ui",
+      "original_kb": 13.0,
+      "final_kb": 5.3,
+      "ahorro": "59%",
+      "formato": "WEBP"
+    }
+  ]
+}

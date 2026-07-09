@@ -1,0 +1,385 @@
+{
+  "analisis_general": {
+    "total_imagenes": 23,
+    "formatos": ["jpg"],
+    "resoluciones": ["1536x2048", "2048x1536", "2048x2048", "720x960", "526x701"],
+    "peso_total": "6.2 MB",
+    "archivo_invalido": "descarga.htm (no es imagen, omitido)"
+  },
+  "renamed_files": [
+    {
+      "original": "485357818_2430814133927544_8169156934924467135_n.jpg",
+      "new_name": "hero_bg_oasis_persona_01.jpg",
+      "category": "hero_bg",
+      "resolution": "1536x2048",
+      "size": "277KB",
+      "reason": "Composición vertical ideal para hero. Persona de espaldas mirando el oasis de Huacachina. Cielo azul amplio con excelente espacio para superponer texto. Perfecto para portada principal."
+    },
+    {
+      "original": "484628625_2431030360572588_3868963546871690059_n.jpg",
+      "new_name": "hero_bg_atardecer_buggies_02.jpg",
+      "category": "hero_bg",
+      "resolution": "1536x2048",
+      "size": "455KB",
+      "reason": "Atardecer espectacular con buggies estacionados. Cielo dramático con nubes iluminadas ocupa 2/3 de la imagen. Excelente para hero con texto superpuesto en el cielo. Escena icónica de Huacachina."
+    },
+    {
+      "original": "487580347_2442432849432339_9125199171024688420_n.jpg",
+      "new_name": "hero_bg_buggy_oasis_03.jpg",
+      "category": "hero_bg",
+      "resolution": "2048x1536",
+      "size": "311KB",
+      "reason": "Buggy turístico en primer plano con oasis de fondo. Cielo azul despejado en zona superior derecha ideal para texto. Carga visual equilibrada entre vehículo y paisaje."
+    },
+    {
+      "original": "740037913_2876470176028602_4579983652843920944_n.jpg",
+      "new_name": "banner_grupo_atardecer_01.jpg",
+      "category": "banner",
+      "resolution": "2048x1536",
+      "size": "360KB",
+      "reason": "Atardecer espectacular con grupo de turistas y buggies. Escena vibrante. Ideal para banner promocional de página de experiencias o sección de aventura."
+    },
+    {
+      "original": "740106102_2876473299361623_2582176066159938230_n.jpg",
+      "new_name": "banner_dunas_llamas_02.jpg",
+      "category": "banner",
+      "resolution": "1536x2048",
+      "size": "297KB",
+      "reason": "Cielo en llamas sobre dunas. Figura humana diminuta al fondo escala la inmensidad. Composición vertical impactante para banner de sección."
+    },
+    {
+      "original": "484805972_2431030413905916_3267645594344830926_n.jpg",
+      "new_name": "section_bg_dunas_nubes_01.jpg",
+      "category": "section_bg",
+      "resolution": "1536x2048",
+      "size": "611KB",
+      "reason": "Paisaje desértico con dunas suaves y cielo nublado espectacular. Arbusto verde en primer plano da contraste. Fondo ideal para secciones con texto superpuesto."
+    },
+    {
+      "original": "548079096_2598951197113836_2747214656026089381_n.jpg",
+      "new_name": "section_bg_padre_hija_oasis_02.jpg",
+      "category": "section_bg",
+      "resolution": "2048x1536",
+      "size": "394KB",
+      "reason": "Padre e hija sentados en duna viendo el oasis. Transmite turismo familiar y calma. Ideal para sección 'Nosotros' o 'Experiencias Familiares'."
+    },
+    {
+      "original": "600350251_2686610438347911_896158172233352790_n.jpg",
+      "new_name": "section_bg_oasis_atardecer_03.jpg",
+      "category": "section_bg",
+      "resolution": "2048x1536",
+      "size": "229KB",
+      "reason": "Oasis al atardecer con turistas dispersos en las dunas. Vista panorámica espectacular. Fondo versátil para múltiples secciones."
+    },
+    {
+      "original": "600321953_2686656878343267_8750202109108533457_n.jpg",
+      "new_name": "section_bg_oasis_noche_04.jpg",
+      "category": "section_bg",
+      "resolution": "2048x1536",
+      "size": "243KB",
+      "reason": "Hora azul/atardecer. Oasis iluminado, pareja abrazada en primer plano. Perfecto para sección de experiencias románticas o 'Pack Romance'."
+    },
+    {
+      "original": "494206032_2474602126215411_4989141151721231033_n.jpg",
+      "new_name": "card_buggies_fila_01.jpg",
+      "category": "card",
+      "resolution": "1536x2048",
+      "size": "449KB",
+      "reason": "Fila de buggies coloridos estacionados en las dunas. Cielo nublado. Muestra la flota de vehículos. Ideal para tarjeta de galería."
+    },
+    {
+      "original": "494464784_2474602136215410_794189033582154039_n.jpg",
+      "new_name": "card_buggies_dunas_02.jpg",
+      "category": "card",
+      "resolution": "2048x1536",
+      "size": "214KB",
+      "reason": "Buggies en las dunas con cielo cubierto. Espacio superior amplio. Buena para fondo de sección con texto."
+    },
+    {
+      "original": "494922361_2475780466097577_4624861655447292767_n.jpg",
+      "new_name": "card_canam_conductor_03.jpg",
+      "category": "card",
+      "resolution": "2048x1536",
+      "size": "287KB",
+      "reason": "Can-Am Maverick X3 blanco con conductor sonriente haciendo pulgar arriba. Cielo azul despejado. Excelente para tarjeta de experiencia turística. Transmite diversión."
+    },
+    {
+      "original": "505582493_2512818485727108_6447772257966165438_n.jpg",
+      "new_name": "card_mujer_buggy_verde_04.jpg",
+      "category": "card",
+      "resolution": "2048x1536",
+      "size": "286KB",
+      "reason": "Mujer sentada en buggy verde mirando el paisaje. Oasis al fondo. Estética aspiracional. Ideal para tarjetas de experiencia o galería."
+    },
+    {
+      "original": "506677738_2512817872393836_1684627626355130215_n.jpg",
+      "new_name": "card_hombre_cargando_amigo_05.jpg",
+      "category": "card",
+      "resolution": "1536x2048",
+      "size": "300KB",
+      "reason": "Hombre cargando a otro en caballito con camiseta HUACACHINA. Escena divertida y auténtica. Perfecto para sección de redes sociales o galería de clientes felices."
+    },
+    {
+      "original": "509437632_2522531761422447_1028853893593851892_n.jpg",
+      "new_name": "card_buggy_verde_atardecer_06.jpg",
+      "category": "card",
+      "resolution": "2048x1536",
+      "size": "331KB",
+      "reason": "Buggy verde lima al atardecer. Vehículo en centro, cielo rojo intenso. Composición apretada, sin espacio para texto. Ideal para tarjeta visual impactante."
+    },
+    {
+      "original": "656900665_2779984399010514_74045412258102372_n.jpg",
+      "new_name": "card_buggy_amarillo_adventure_07.jpg",
+      "category": "card",
+      "resolution": "2048x2048",
+      "size": "433KB",
+      "reason": "Buggy amarillo con logos 'ADVENTURE' al atardecer. Conductor señalando. Cielo dramático. Imagen cuadrada perfecta para tarjetas y redes."
+    },
+    {
+      "original": "657221265_2779984452343842_4551530793665824068_n.jpg",
+      "new_name": "carousel_persona_sola_atardecer_01.jpg",
+      "category": "carousel",
+      "resolution": "2048x2048",
+      "size": "225KB",
+      "reason": "Persona solitaria al atardecer en dunas. Cielo espectacular con nubes. Composición vertical. Versátil para carrusel, hero alternativo o fondos."
+    },
+    {
+      "original": "658873476_2779984402343847_1151244695346867200_n.jpg",
+      "new_name": "carousel_dunas_sombra_02.jpg",
+      "category": "carousel",
+      "resolution": "2048x2048",
+      "size": "169KB",
+      "reason": "Dunas en sombra al atardecer con cielo rosado. Sin personas. Paisaje puro. Ideal para carrusel de fondos atmosféricos."
+    },
+    {
+      "original": "737645516_2876473322694954_1635406429300406086_n.jpg",
+      "new_name": "carousel_buggy_verde_persona_alto_03.jpg",
+      "category": "carousel",
+      "resolution": "2048x1536",
+      "size": "320KB",
+      "reason": "Buggy verde con persona de pie en el techo al atardecer. Escena aventurera. Excelente para carrusel de experiencias."
+    },
+    {
+      "original": "739200101_2876473136028306_7849420425170464907_n.jpg",
+      "new_name": "carousel_hombre_alegre_04.jpg",
+      "category": "carousel",
+      "resolution": "720x960",
+      "size": "95KB",
+      "reason": "Hombre con brazos abiertos, buggy verde al fondo, atardecer. Felicidad y libertad. Buena para carrusel social. Resolución baja (720x960)."
+    },
+    {
+      "original": "739264493_2876554012686885_6577536617398785102_n.jpg",
+      "new_name": "ui_selfie_pareja_luna_01.jpg",
+      "category": "ui",
+      "resolution": "526x701",
+      "size": "13KB",
+      "reason": "Pareja tomándose selfie con luna/sol gigante. Resolución muy baja (526x701, 13KB). Solo usable como icono decorativo o thumbnail. No ampliable."
+    },
+    {
+      "original": "494421451_2475202506155373_391854109125100630_n.jpg",
+      "new_name": "ui_dunas_textura_02.jpg",
+      "category": "ui",
+      "resolution": "720x960",
+      "size": "53KB",
+      "reason": "Dunas con huellas de neumáticos al atardecer. Sin personas ni vehículos. Textura de arena pura. Resolución baja (720x960). Usable como fondo decorativo pequeño."
+    },
+    {
+      "original": "494522262_2475202246155399_8132892594217809669_n.jpg",
+      "new_name": "ui_ciclista_huacachina_03.jpg",
+      "category": "ui",
+      "resolution": "720x960",
+      "size": "45KB",
+      "reason": "Ciclista sentado con camiseta HUACACHINA al atardecer. Resolución baja (720x960). Solo para thumbnail, avatar decorativo o detalle de galería."
+    }
+  ],
+  "carousel_pool": [
+    {
+      "file": "carousel_persona_sola_atardecer_01.jpg",
+      "reason": "Paisaje puro, composición cuadrada versátil, cielo espectacular. Sirve para múltiples secciones."
+    },
+    {
+      "file": "carousel_dunas_sombra_02.jpg",
+      "reason": "Dunas atmosféricas sin personas. Fondo neutro dramático. Reutilizable en secciones de bienvenida, blog, reservas."
+    },
+    {
+      "file": "carousel_buggy_verde_persona_alto_03.jpg",
+      "reason": "Escena aventurera vibrante. Perfecta para carrusel de experiencias destacadas."
+    },
+    {
+      "file": "carousel_hombre_alegre_04.jpg",
+      "reason": "Emoción y felicidad auténtica. Ideal para testimoniales visuales en carrusel. Limitación: baja resolución."
+    },
+    {
+      "file": "card_buggies_fila_01.jpg",
+      "reason": "Flota de vehículos coloridos. Buena variación visual para carrusel de transporte/servicios."
+    },
+    {
+      "file": "card_canam_conductor_03.jpg",
+      "reason": "Conductor feliz, vehículo moderno. Transmite profesionalismo. Alemania visual al carrusel."
+    },
+    {
+      "file": "card_buggy_verde_atardecer_06.jpg",
+      "reason": "Atardecer intenso, vehículo brillante. Impacto visual alto para carrusel."
+    },
+    {
+      "file": "banner_dunas_llamas_02.jpg",
+      "reason": "Cielo en llamas dramático. Escala humana diminuta. Versátil para transiciones de carrusel."
+    }
+  ],
+  "optimized_suggestions": [
+    {
+      "file": "hero_bg_oasis_persona_01.jpg",
+      "action": "convert_webp + compress",
+      "reason": "277KB → ~60KB. Espacio para texto en cielo azul. WebP preserva calidad. Comprimir al 80%."
+    },
+    {
+      "file": "hero_bg_atardecer_buggies_02.jpg",
+      "action": "convert_webp + compress",
+      "reason": "455KB → ~90KB. Atardecer necesita buena gradación. WebP con calidad 85%."
+    },
+    {
+      "file": "hero_bg_buggy_oasis_03.jpg",
+      "action": "convert_webp + compress",
+      "reason": "311KB → ~70KB. Cielo azul comprime bien. WebP al 80%."
+    },
+    {
+      "file": "banner_grupo_atardecer_01.jpg",
+      "action": "convert_webp + compress",
+      "reason": "360KB → ~80KB. Escena con muchas personas y nubes. WebP calidad 85%."
+    },
+    {
+      "file": "banner_dunas_llamas_02.jpg",
+      "action": "convert_webp + compress",
+      "reason": "297KB → ~65KB. Cielo rojo intenso necesita buena calidad. WebP 85%."
+    },
+    {
+      "file": "section_bg_dunas_nubes_01.jpg",
+      "action": "convert_webp + compress",
+      "reason": "611KB → ~100KB. La más pesada. Cielo detallado. WebP 80%."
+    },
+    {
+      "file": "section_bg_padre_hija_oasis_02.jpg",
+      "action": "convert_webp + compress",
+      "reason": "394KB → ~80KB. Personas + paisaje. WebP calidad 80%."
+    },
+    {
+      "file": "section_bg_oasis_atardecer_03.jpg",
+      "action": "convert_webp + compress",
+      "reason": "229KB → ~55KB. Escena nocturna comprime bien. WebP 80%."
+    },
+    {
+      "file": "section_bg_oasis_noche_04.jpg",
+      "action": "convert_webp + compress",
+      "reason": "243KB → ~55KB. Hora azul con luces. WebP 80%."
+    },
+    {
+      "file": "card_buggies_fila_01.jpg",
+      "action": "convert_webp + compress",
+      "reason": "449KB → ~60KB. WebP 75% (menos crítica)."
+    },
+    {
+      "file": "card_buggies_dunas_02.jpg",
+      "action": "convert_webp + compress",
+      "reason": "214KB → ~45KB. WebP 80%."
+    },
+    {
+      "file": "card_canam_conductor_03.jpg",
+      "action": "convert_webp + compress",
+      "reason": "287KB → ~55KB. WebP 80%."
+    },
+    {
+      "file": "card_mujer_buggy_verde_04.jpg",
+      "action": "convert_webp + compress",
+      "reason": "286KB → ~55KB. WebP 80%."
+    },
+    {
+      "file": "card_hombre_cargando_amigo_05.jpg",
+      "action": "convert_webp + compress",
+      "reason": "300KB → ~55KB. WebP 80%."
+    },
+    {
+      "file": "card_buggy_verde_atardecer_06.jpg",
+      "action": "convert_webp + compress",
+      "reason": "331KB → ~65KB. Atardecer necesita calidad. WebP 85%."
+    },
+    {
+      "file": "card_buggy_amarillo_adventure_07.jpg",
+      "action": "convert_webp + compress",
+      "reason": "433KB → ~70KB. WebP 80%."
+    },
+    {
+      "file": "carousel_persona_sola_atardecer_01.jpg",
+      "action": "convert_webp + compress",
+      "reason": "225KB → ~50KB. WebP 80%."
+    },
+    {
+      "file": "carousel_dunas_sombra_02.jpg",
+      "action": "convert_webp + compress",
+      "reason": "169KB → ~40KB. WebP 80%."
+    },
+    {
+      "file": "carousel_buggy_verde_persona_alto_03.jpg",
+      "action": "convert_webp + compress",
+      "reason": "320KB → ~65KB. WebP 80%."
+    },
+    {
+      "file": "carousel_hombre_alegre_04.jpg",
+      "action": "convert_webp + compress",
+      "reason": "95KB → ~25KB. Baja resolución (720x960). WebP 75%."
+    },
+    {
+      "file": "ui_selfie_pareja_luna_01.jpg",
+      "action": "compress",
+      "reason": "Solo 13KB. Mantener JPG. No convertir a WebP (pierde más calidad que ganancia)."
+    },
+    {
+      "file": "ui_dunas_textura_02.jpg",
+      "action": "convert_webp + compress",
+      "reason": "53KB → ~15KB. WebP 75%."
+    },
+    {
+      "file": "ui_ciclista_huacachina_03.jpg",
+      "action": "convert_webp + compress",
+      "reason": "45KB → ~12KB. WebP 75%."
+    }
+  ],
+  "resumen_por_categoria": {
+    "hero_bg": {
+      "cantidad": 3,
+      "archivos": ["hero_bg_oasis_persona_01.jpg", "hero_bg_atardecer_buggies_02.jpg", "hero_bg_buggy_oasis_03.jpg"],
+      "uso": "Portada principal del sitio, hero de landing page"
+    },
+    "banner": {
+      "cantidad": 2,
+      "archivos": ["banner_grupo_atardecer_01.jpg", "banner_dunas_llamas_02.jpg"],
+      "uso": "Banners promocionales, encabezados de sección"
+    },
+    "section_bg": {
+      "cantidad": 4,
+      "archivos": ["section_bg_dunas_nubes_01.jpg", "section_bg_padre_hija_oasis_02.jpg", "section_bg_oasis_atardecer_03.jpg", "section_bg_oasis_noche_04.jpg"],
+      "uso": "Fondos de secciones: Nosotros, Experiencias, Servicios"
+    },
+    "card": {
+      "cantidad": 7,
+      "archivos": ["card_buggies_fila_01.jpg", "card_buggies_dunas_02.jpg", "card_canam_conductor_03.jpg", "card_mujer_buggy_verde_04.jpg", "card_hombre_cargando_amigo_05.jpg", "card_buggy_verde_atardecer_06.jpg", "card_buggy_amarillo_adventure_07.jpg"],
+      "uso": "Tarjetas de experiencia, galerías, listados"
+    },
+    "carousel": {
+      "cantidad": 4,
+      "archivos": ["carousel_persona_sola_atardecer_01.jpg", "carousel_dunas_sombra_02.jpg", "carousel_buggy_verde_persona_alto_03.jpg", "carousel_hombre_alegre_04.jpg"],
+      "uso": "Carrusel de hero, galería rotativa, sliders"
+    },
+    "ui": {
+      "cantidad": 3,
+      "archivos": ["ui_selfie_pareja_luna_01.jpg", "ui_dunas_textura_02.jpg", "ui_ciclista_huacachina_03.jpg"],
+      "uso": "Iconos decorativos, thumbnails, elementos pequeños"
+    }
+  },
+  "notas_importantes": [
+    "Todas las imágenes son de Huacachina, Ica - Perú",
+    "Las imágenes 720x960 y 526x701 tienen resolución limitada y solo sirven para thumbnails",
+    "La imagen descarga.htm debe eliminarse (no es una imagen válida)",
+    "Se recomienda crear subcarpetas por categoría: /assets/hero/, /assets/banner/, /assets/card/, etc.",
+    "Ahorro estimado con WebP: ~75% del peso total (de 6.2MB a ~1.5MB)"
+  ]
+}

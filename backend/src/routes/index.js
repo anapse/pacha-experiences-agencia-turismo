@@ -1,0 +1,36 @@
+const router = require('express').Router();
+const authRoutes = require('./auth.routes');
+const faqRoutes = require('./faq.routes');
+const experienceRoutes = require('./experiences.routes');
+const bookingRoutes = require('./bookings.routes');
+const serviceRoutes = require('./services.routes');
+const driverRoutes = require('./drivers.routes');
+const operatorRoutes = require('./operators.routes');
+const vehicleRoutes = require('./vehicles.routes');
+const ticketRoutes = require('./tickets.routes');
+const chatRoutes = require('./chat.routes');
+const emergencyRoutes = require('./emergency.routes');
+const billingRoutes = require('./billing.routes');
+const scheduleRoutes = require('./schedules.routes');
+const adminRoutes = require('./admin.routes');
+const statsRoutes = require('./stats.routes');
+const carouselRoutes = require('./carousel.routes');
+
+router.use('/auth', authRoutes);
+router.use('/schedules', scheduleRoutes);
+router.use('/faq', faqRoutes);
+router.use('/experiences', experienceRoutes);
+router.use('/bookings', bookingRoutes);
+router.use('/services', serviceRoutes);
+router.use('/drivers', driverRoutes);
+router.use('/operators', operatorRoutes);
+router.use('/vehicles', vehicleRoutes);
+router.use('/tickets', ticketRoutes);
+router.use('/chat', chatRoutes);
+router.use('/emergencies', emergencyRoutes);
+router.use('/billing', billingRoutes);
+router.use('/admin', adminRoutes);
+router.use('/stats', statsRoutes);
+router.use('/carousel', carouselRoutes);
+
+module.exports = router;

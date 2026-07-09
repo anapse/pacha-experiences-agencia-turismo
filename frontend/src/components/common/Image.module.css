@@ -1,0 +1,57 @@
+.wrapper {
+  position: relative;
+  overflow: hidden;
+  border-radius: inherit;
+  min-height: 40px;
+  background-size: 200% 100%;
+}
+
+/* Skeleton como fondo del wrapper mientras carga */
+.loading {
+  background: linear-gradient(90deg,
+    var(--color-bg-tertiary) 0%,
+    var(--color-bg-secondary) 50%,
+    var(--color-bg-tertiary) 100%
+  );
+  animation: shimmer 1.2s ease-in-out infinite;
+}
+
+/* Sin skeleton cuando ya cargó */
+.done {
+  background: none;
+  animation: none;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* Imagen — fade in suave */
+.img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: block;
+  opacity: 0;
+  transition: opacity 0.4s ease, transform 0.5s ease;
+}
+
+.img.visible {
+  opacity: 1;
+}
+
+.wrapper.done:hover .img.visible {
+  transform: scale(1.04);
+}
+
+/* Error state */
+.error {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  background: var(--color-bg-tertiary);
+}

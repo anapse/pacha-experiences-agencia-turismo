@@ -1,0 +1,45 @@
+.page {
+  min-height: calc(100vh - var(--header-height) - 200px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 64px var(--content-padding);
+}
+
+.code {
+  font-size: 6rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.text {
+  color: var(--color-text-secondary);
+  margin-bottom: 32px;
+}
+
+.link {
+  padding: 12px 24px;
+  border-radius: var(--radius-full);
+  background: var(--color-primary);
+  color: white;
+  font-weight: 500;
+  transition: background var(--transition-fast);
+  text-decoration: none;
+}
+
+.link:hover {
+  background: var(--color-primary-dark);
+}
