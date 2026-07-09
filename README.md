@@ -67,9 +67,9 @@
 
 <div align="center">
 
-### 📱 **+51 999 000 000** — WhatsApp
+### 📱 **+51 912 391 502** — WhatsApp
 
-### ✉️ **ventas@pacha-experiences.com**
+### ✉️ **anapse_video@hotmail.com**
 
 ---
 
